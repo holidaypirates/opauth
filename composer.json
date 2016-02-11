@@ -19,6 +19,16 @@
 		"holidaypirates/facebook": "Allows Facebook authentication",
 		"holidaypirates/twitter": "Allows Twitter authentication"
 	},
+	"repositories": [
+		{
+			"type": "vcs",
+			"url": "https://github.com/holidaypirates/facebook.git"
+		},
+		{
+			"type": "vcs",
+			"url": "https://github.com/holidaypirates/twitter.git"
+		}
+	],
 	"autoload": {
 		"classmap": [ 
 			"lib/Opauth/"
