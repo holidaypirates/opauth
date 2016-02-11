@@ -16,9 +16,8 @@
 		"php": ">=5.2.0"
 	},
 	"suggest": {
-		"opauth/facebook": "Allows Facebook authentication",
-		"opauth/google": "Allows Google authentication",
-		"opauth/twitter": "Allows Twitter authentication"
+		"holidaypirates/facebook": "Allows Facebook authentication",
+		"holidaypirates/twitter": "Allows Twitter authentication"
 	},
 	"autoload": {
 		"classmap": [ 
